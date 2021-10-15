@@ -7,6 +7,8 @@ This is a GitHub repository for Towards-Data-Science publication called "Jigsaw 
 
 It's goal is to let you walk the route described in the article by yourself.
 
-Here you will find the full code in Python and "Life under the Arctic ice" image used in the project.
+Here you will find the full code in Python and puzzle scan used in the project.
 
-Please, enjoy! ;)
+Start fast with direct link to Google Colab notebook inside code file.
+
+Please, enjoy! :)
