@@ -274,7 +274,7 @@ while (len(canvas) < 15) & (attempts < 10):
   
   attempts += 1
 
-showpic(rotate(assembly,115), 20)
+showpic(assembly)
 
 # Mark matches in original image
 count = 0
