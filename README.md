@@ -5,7 +5,7 @@ Solved in 60 seconds with 300 code lines
 
 Hi!
 
-This is a rep for Towards-Data-Science publication "Jigsaw Puzzle AI from A to Z".
+This is a rep for TDS publication: https://towardsdatascience.com/jigsaw-puzzle-ai-from-a-to-z-b4bdb53d8686
 
 Its goal is to let you walk the route described in the paper by yourself.
 
